@@ -14,13 +14,13 @@
 
 ### Ajustes e melhorias
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+The project is still in development and the next updates will focus on the following tasks:
 
-- [x] Tarefa 1
-- [x] Tarefa 2
-- [x] Tarefa 3
-- [ ] Tarefa 4
-- [ ] Tarefa 5
+- [x] Main page
+- [ ] Task 2
+- [ ] Task 3
+- [ ] Task 4
+- [ ] Task 5
 
 ## 💻 Pré-requisitos
 
@@ -74,9 +74,9 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <img src="/img/sergio-cartoon.png" width="100px;" alt="Cartoom Sergio"/><br>
         <sub>
-          <b>Iuri Silva</b>
+          <b>Sergio Cardoso</b>
         </sub>
       </a>
     </td>
