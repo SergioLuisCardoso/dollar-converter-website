@@ -52,7 +52,8 @@ Para usar <nome_do_projeto>, siga estas etapas:
 <exemplo_de_uso>
 ```
 
-Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
+
+Add run commands and examples that you think users will find useful. Provides a reference of options for bonus points!
 
 ## 📫 Contribuindo para <nome_do_projeto>
 <!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
@@ -64,11 +65,11 @@ Para contribuir com <nome_do_projeto>, siga estas etapas:
 4. Envie para o branch original: `git push origin <nome_do_projeto> / <local>`
 5. Crie a solicitação de pull.
 
-Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+Alternatively, see the GitHub documentation at [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-## 🤝 Colaboradores
+## 🤝 Collaborators
 
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+We thank the following people who contributed to this project:
 
 <table>
   <tr>
@@ -100,12 +101,12 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 </table>
 
 
-## 😄 Seja um dos contribuidores<br>
+## 😄 Be one of the contributors<br>
 
-Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
+Want to be part of this project? Click [HERE](CONTRIBUTING.md) and read how to contribute.
 
-## 📝 Licença
+## 📝 License
 
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+This project is under license. See the file [LICENSE](LICENSE.md) for more details.
 
-[⬆ Voltar ao topo](#dollar-converter-website)<br>
+[⬆ Back to top](#dollar-converter-website)<br>
