@@ -30,9 +30,9 @@ Before starting, make sure you've met the following requirements:
 * Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
 * Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
 
-## 🚀 Instalando <nome_do_projeto>
+## 🚀 Installing <project_name>
 
-Para instalar o <nome_do_projeto>, siga estas etapas:
+To install <project_name>, follow these steps:
 
 Linux e macOS:
 ```
@@ -44,7 +44,7 @@ Windows:
 <comando_de_instalação>
 ```
 
-## ☕ Usando <nome_do_projeto>
+## ☕ Using <project_name>
 
 Para usar <nome_do_projeto>, siga estas etapas:
 
@@ -55,15 +55,15 @@ Para usar <nome_do_projeto>, siga estas etapas:
 
 Add run commands and examples that you think users will find useful. Provides a reference of options for bonus points!
 
-## 📫 Contribuindo para <nome_do_projeto>
+## 📫 Contributing to <project_name>>
 <!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
-Para contribuir com <nome_do_projeto>, siga estas etapas:
+To contribute to <project_name>, follow these steps:
 
-1. Bifurque este repositório.
-2. Crie um branch: `git checkout -b <nome_branch>`.
-3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
-4. Envie para o branch original: `git push origin <nome_do_projeto> / <local>`
-5. Crie a solicitação de pull.
+1. Fork this repository.
+2. Create a branch: `git checkout -b <nome_branch>`.
+3. Make your changes and commit them: `git commit -m '<mensagem_commit>'`
+4. Push to the origin branch: `git push origin <nome_do_projeto> / <local>`
+5. Create the pull request.
 
 Alternatively, see the GitHub documentation at [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
