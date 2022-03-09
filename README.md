@@ -27,8 +27,8 @@ The project is still in development and the next updates will focus on the follo
 Before starting, make sure you've met the following requirements:
 <!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
 * Have you installed the latest version of `<language / dependency / requested>`
-* Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
-* Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
+* You have a `<Windows/Linux/Mac>` machine. Indicate which operating system is supported/unsupported
+* You've read `<guide/link/documentation_related_to_the_project>`.
 
 ## 🚀 Installing <project_name>
 
@@ -36,17 +36,17 @@ To install <project_name>, follow these steps:
 
 Linux e macOS:
 ```
-<comando_de_instalação>
+<install_command>
 ```
 
 Windows:
 ```
-<comando_de_instalação>
+<install_command>
 ```
 
 ## ☕ Using <project_name>
 
-Para usar <nome_do_projeto>, siga estas etapas:
+To use <project_name>, follow these steps:
 
 ```
 <exemplo_de_uso>
